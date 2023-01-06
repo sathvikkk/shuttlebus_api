@@ -12,6 +12,10 @@ Solution--
 
 Pre-requsite : Learning about postman tool for testing api operation calls, and creating a database and table in mysql. and about pythonflask framework.
 
+we ahve requrimetns.txt file which has all the needed dependencies that need to be install as mentioned below.
+
+we can use : pip install -r requirements.txt - to install all dependencies at once.
+
 Required framework Installations -- pip install flask
                                     pip install flask-mysql 
                                     pip install -U flask-cors
@@ -28,3 +32,6 @@ App.py -- This is for importing the flask and cros framework.
 config.py -- This is configuring the mysql database and importing mysql framework.
 
 main.py -- This is main application code for creating api and connecting the mysql and for mysql query.
+
+
+
