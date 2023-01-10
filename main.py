@@ -4,7 +4,7 @@ from config import mysql
 from flask import jsonify
 from flask import flash, request
 
-#for welcoe woorld
+#for welcome world
 
 #@app.route('/')
 #def Hello_world():
