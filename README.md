@@ -19,7 +19,8 @@ we can use to install all dependencies at once.
 
 Otherwise, we can install the packages individually using below command.
 
-Required package Installations --   pip install flask
+Required package Installations --  
+                                    pip install flask
                                     pip install flask-mysql 
                                     pip install -U flask-cors
 
