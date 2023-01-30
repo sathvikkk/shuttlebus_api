@@ -41,8 +41,8 @@ App.py -- This is for importing the flask and cors framework.
 config.py -- This is configuring the mysql database and importing mysql framework.
 
 main.py -- This is main application code for creating api and connecting the mysql and for mysql query.
-       
-run app with  python main.py
+      
+ Run app with  python main.py
 
 
 
